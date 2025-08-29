@@ -1,6 +1,6 @@
 # grupo-de-estudos-data-girls-python
 
-# Objetivo desse repositorio : 
+## Objetivo desse repositorio : 
     - Anotações dos encontros 
     - exercicios e pequenos projetos desenvolvidos no grupo de estudos 
 # Cronograma dos Encontros
@@ -21,3 +21,10 @@
 | **01/09 e 04/09** | Introdução à programação e ao Python |
 | **08/09 e 11/09** | Tipos de Dados e Protocolos |
 | **15/09 e 18/09** | Input-Output, Algoritmos, Condicionais e Repetições |
+
+# Anotações do primeiro encontro 28.08.2025
+
+- Curso Python Essentials será feito por meio do link : school.linuxtips.io/start
+- Presença em todos os encontros são fundamentais.
+
+
